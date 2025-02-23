@@ -68,7 +68,7 @@ de melhorar significativamente a segurança e saúde dos trabalhadores em ambien
   - [<stdio.h>, <math.h>, <string.h, "pico/stdlib.h", "hardware/adc.h", "hardware/dma.h", "hardware/gpio.h", "hardware/pwm.h", "hardware/pio.h" e "inc/ssd1306.h"]
 
 ## Uso do Firmware/Software:
-Caso queiara testar o firmware basta copiar o arquivo dosimetro.uf2 para seu dispositivo.
+Caso queiara testar o firmware basta copiar o arquivo **dosimetro.uf2** para seu dispositivo.
 
  **Ou Clone o Repositório:**
    ```bash
