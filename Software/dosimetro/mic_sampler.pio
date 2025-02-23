@@ -1,0 +1,6 @@
+.program mic_sampler
+.side_set 1 opt
+.wrap_target
+    in pins, 1 side 0   ; Captura o sinal do microfone
+    push noblock        ; Envia o dado para o FIFO
+.wrap
