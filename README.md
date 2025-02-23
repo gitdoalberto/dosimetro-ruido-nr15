@@ -12,10 +12,10 @@ Este projeto visa desenvolver um dosímetro de ruído portátil que atenda às n
 
 ## Objetivos do Projeto
 
-Desenvolver um dispositivo portátil e de baixo custo para medição de ruído ocupacional.
-Garantir que o dispositivo atenda aos requisitos da NR-15, fornecendo dados precisos sobre a exposição ao ruído.
-Facilitar a monitoração contínua e automática dos níveis de ruído em ambientes de trabalho.
-Fornecer alertas sonoros e visuais quando os limites de exposição forem ultrapassados.
+- Desenvolver um dispositivo portátil e de baixo custo para medição de ruído ocupacional.
+- Garantir que o dispositivo atenda aos requisitos da NR-15, fornecendo dados precisos sobre a exposição ao ruído.
+- Facilitar a monitoração contínua e automática dos níveis de ruído em ambientes de trabalho.
+- Fornecer alertas sonoros e visuais quando os limites de exposição forem ultrapassados.
 
 ## Principais Requisitos
 - **Precisão:** O dispositivo deve medir níveis de ruído com precisão de ±1 dB.
