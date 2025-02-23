@@ -28,7 +28,7 @@ Este projeto visa desenvolver um dosímetro de ruído portátil que atenda às n
 ## Descrição do Funcionamento
 O dosímetro de ruído portátil funcionará da seguinte maneira:
 - **Captação do Som:** Um microfone de alta sensibilidade captará os sons ambientais.
-- **Processamento do Sinal: O sinal será processado por um microcontrolador que calculará o nível de pressão sonora em dB(A).
+- **Processamento do Sinal:** O sinal será processado por um microcontrolador que calculará o nível de pressão sonora em dB(A).
 - **Cálculo da Dose de Ruído:** O microcontrolador calculará a dose de ruído acumulada ao longo do tempo, comparando-a com os limites da NR-15.
 - **Exibição dos Dados:** Os dados serão exibidos em um display LCD, mostrando o nível de ruído atual, a dose acumulada e o tempo restante de exposição segura.
 - **Alertas:** Se os limites de exposição forem ultrapassados, o dispositivo emitirá alertas sonoros e visuais.
