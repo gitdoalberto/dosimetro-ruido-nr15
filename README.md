@@ -38,11 +38,22 @@ Armazenamento de Dados: O dispositivo poderá armazenar os dados coletados para 
 ## Justificativa
 A exposição excessiva ao ruído em ambientes industriais é uma das principais causas de perda auditiva ocupacional. A NR-15 regulamenta limites de tolerância ao ruído para garantir a segurança dos trabalhadores. No entanto, muitas empresas não possuem meios eficientes para monitorar e gerenciar a exposição ao som. O desenvolvimento deste dosímetro possibilita a prevenção de doenças ocupacionais, contribuindo para um ambiente de trabalho mais seguro.
 
+## Originalidade
+
+Existem diversos dosímetros comerciais no mercado, como os fabricados pela 3M e Bruel & Kjaer, que são eficientes, mas muitas
+vezes de alto custo. Este projeto propõe um dispositivo mais acessível, com funcionalidades personalizadas e integração com
+sistemas de monitoramento real. Além disso, sua capacidade de exportação de dados para análise computacional o torna uma
+ferramenta valiosa para gestores de segurança do trabalho.
+
+## Conclusão
+O Dosímetro de Ruído Portátil NR-15 é uma solução inovadora e necessária para a monitoração contínua da exposição ao ruído
+ocupacional. Com sua portabilidade, precisão e conformidade com as normas regulamentadoras, este dispositivo tem o potencial
+de melhorar significativamente a segurança e saúde dos trabalhadores em ambientes industriais.
 
 ## Hardware Utilizado
 
 - **Microcontrolador:** RP2040
-- **Microfone:** [Modelo do sensor utilizado]
+- **Microfone:** Microfone com Amplificador MAX4466
 - **Conversor ADC:** RP2040
 - **Display:  SSD1306, 128x64px, I2C** 
 - **LED RGB:** 3 cores
