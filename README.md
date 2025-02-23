@@ -18,21 +18,21 @@ Facilitar a monitoração contínua e automática dos níveis de ruído em ambie
 Fornecer alertas sonoros e visuais quando os limites de exposição forem ultrapassados.
 
 ## Principais Requisitos
-Precisão: O dispositivo deve medir níveis de ruído com precisão de ±1 dB.
-Portabilidade: O dosímetro deve ser leve e compacto, permitindo que o trabalhador o carregue consigo durante a jornada de trabalho.
-Autonomia: Bateria com duração mínima de 8 horas.
-Interface Amigável: Display LCD ou LED para mostrar os níveis de ruído em tempo real e a dose acumulada.
-Conformidade: O dispositivo deve ser capaz de calcular a dose de ruído de acordo com os limites estabelecidos pela NR-15.
-Durabilidade: Resistente a poeira e água, atendendo ao padrão IP54.
+- **Precisão:** O dispositivo deve medir níveis de ruído com precisão de ±1 dB.
+- **Portabilidade:** O dosímetro deve ser leve e compacto, permitindo que o trabalhador o carregue consigo durante a jornada de trabalho.
+- **Autonomia:** Bateria com duração mínima de 8 horas.
+- **Interface Amigável:** Display LCD ou LED para mostrar os níveis de ruído em tempo real e a dose acumulada.
+- **Conformidade:** O dispositivo deve ser capaz de calcular a dose de ruído de acordo com os limites estabelecidos pela NR-15.
+- **Durabilidade:** Resistente a poeira e água, atendendo ao padrão IP54.
 
 ## Descrição do Funcionamento
 O dosímetro de ruído portátil funcionará da seguinte maneira:
-Captação do Som: Um microfone de alta sensibilidade captará os sons ambientais.
-Processamento do Sinal: O sinal será processado por um microcontrolador que calculará o nível de pressão sonora em dB(A).
-Cálculo da Dose de Ruído: O microcontrolador calculará a dose de ruído acumulada ao longo do tempo, comparando-a com os limites da NR-15.
-Exibição dos Dados: Os dados serão exibidos em um display LCD, mostrando o nível de ruído atual, a dose acumulada e o tempo restante de exposição segura.
-Alertas: Se os limites de exposição forem ultrapassados, o dispositivo emitirá alertas sonoros e visuais.
-Armazenamento de Dados: O dispositivo poderá armazenar os dados coletados para posterior análise.
+- **Captação do Som:** Um microfone de alta sensibilidade captará os sons ambientais.
+- **Processamento do Sinal: O sinal será processado por um microcontrolador que calculará o nível de pressão sonora em dB(A).
+- **Cálculo da Dose de Ruído:** O microcontrolador calculará a dose de ruído acumulada ao longo do tempo, comparando-a com os limites da NR-15.
+- **Exibição dos Dados:** Os dados serão exibidos em um display LCD, mostrando o nível de ruído atual, a dose acumulada e o tempo restante de exposição segura.
+- **Alertas:** Se os limites de exposição forem ultrapassados, o dispositivo emitirá alertas sonoros e visuais.
+- **Armazenamento de Dados:** O dispositivo poderá armazenar os dados coletados para posterior análise.
 
 
 ## Justificativa
