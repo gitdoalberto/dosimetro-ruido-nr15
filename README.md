@@ -70,7 +70,6 @@ de melhorar significativamente a segurança e saúde dos trabalhadores em ambien
 ## Uso do Firmware/Software:
 Caso queiara testar o firmware basta copiar o arquivo dosimetro.uf2 para seu dispositivo.
 
-
-1. **Clone o Repositório:**
+ **Ou Clone o Repositório:**
    ```bash
    git clone https://github.com/gitdoalberto/dosimetro-ruido-nr15.git
